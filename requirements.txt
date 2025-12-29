@@ -1,0 +1,1 @@
+pip install pyTelegramBotAPI pymongo pytz psutil aiohttp requests certifi
